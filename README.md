@@ -27,7 +27,8 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
-```from http.server import HTTPServer,BaseHTTPRequestHandler
+```
+from http.server import HTTPServer,BaseHTTPRequestHandler
 
 content='''
 <!doctype html>
@@ -57,7 +58,8 @@ class MyServer(BaseHTTPRequestHandler):
 print("This is my webserver") 
 server_address =('',80)
 httpd = HTTPServer(server_address,MyServer)
-httpd.serve_forever()```
+httpd.serve_forever()
+```
 
 ## OUTPUT:
 ![client output](https://github.com/Ganesh23013987/webserver/assets/147473768/a4a4b48a-97b8-4ac3-8583-0b3bd22fa803)
