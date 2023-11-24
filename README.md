@@ -66,7 +66,8 @@ httpd.serve_forever()
 ![Server output](https://github.com/Ganesh23013987/webserver/assets/147473768/55ac6c3f-1386-4399-815b-f60d24dce25d)
 
 ## Client output:
-![client output](https://github.com/Ganesh23013987/webserver/assets/147473768/a4a4b48a-97b8-4ac3-8583-0b3bd22fa803)
+<img width="593" alt="client output" src="https://github.com/Ganesh23013987/webserver/assets/147473768/8027074b-e899-42ee-b9b3-1f059718b765">
+
 
 
 
