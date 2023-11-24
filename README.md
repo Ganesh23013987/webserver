@@ -62,6 +62,10 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
+## Server output:
+![Server output](https://github.com/Ganesh23013987/webserver/assets/147473768/55ac6c3f-1386-4399-815b-f60d24dce25d)
+
+## Client output:
 ![client output](https://github.com/Ganesh23013987/webserver/assets/147473768/a4a4b48a-97b8-4ac3-8583-0b3bd22fa803)
 
 
