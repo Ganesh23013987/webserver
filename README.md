@@ -60,7 +60,8 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()```
 
 ## OUTPUT:
-<img width="592" alt="client output" src="https://github.com/Ganesh23013987/webserver/assets/147473768/f987c049-a202-415e-8cfe-306fac152397">
+![client output](https://github.com/Ganesh23013987/webserver/assets/147473768/a4a4b48a-97b8-4ac3-8583-0b3bd22fa803)
+
 
 
 ## RESULT:
