@@ -60,10 +60,8 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()```
 
 ## OUTPUT:
-### server output:
-<img width="602" alt="Server output" src="https://github.com/Ganesh23013987/webserver/assets/147473768/fe3c8f1d-8d8c-47d7-9638-8f38e09da963">
-### client output:
-<img width="592" alt="client output" src="https://github.com/Ganesh23013987/webserver/assets/147473768/6e32b47e-7744-4c68-b21b-89c3fce8422c">
+<img width="592" alt="client output" src="https://github.com/Ganesh23013987/webserver/assets/147473768/c0013e68-a1ed-4ad0-b415-6492a96fead2">
+
 
 ## RESULT:
 The program is executed succesfully.
