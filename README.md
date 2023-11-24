@@ -60,8 +60,6 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()```
 
 ## OUTPUT:
-<img width="610" alt="list method sort" src="https://github.com/Ganesh23013987/webserver/assets/147473768/2365936a-6411-4978-a724-81f86fe0055d">
-
 
 
 ## RESULT:
